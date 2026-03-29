@@ -28,7 +28,7 @@ function Counter({ to, prefix = '', suffix = '', decimals = 0 }) {
 }
 
 const stats = [
-  { to: 3.69, prefix: '', suffix: '', decimals: 2, label: 'Masters CGPA @ UNT', icon: '🎓' },
+  { to: 3.89, prefix: '', suffix: '', decimals: 2, label: 'Masters CGPA @ UNT', icon: '🎓' },
   { to: 3, prefix: '', suffix: '+', decimals: 0, label: 'Professional Roles', icon: '💼' },
   { to: 10, prefix: '', suffix: '+', decimals: 0, label: 'Projects Built', icon: '🚀' },
   { to: 35, prefix: '', suffix: '%', decimals: 0, label: 'API Perf. Improved', icon: '⚡' },
@@ -145,7 +145,7 @@ export default function About() {
                 whileHover={{ scale: 1.08, rotate: 3 }}
                 className="absolute -bottom-5 -right-5 bg-gradient-to-br from-indigo-600 to-purple-600 text-white rounded-2xl p-4 shadow-xl shadow-indigo-200/60"
               >
-                <div className="text-2xl font-black">3.69</div>
+                <div className="text-2xl font-black">3.89</div>
                 <div className="text-xs font-medium opacity-90 leading-tight">Masters<br/>CGPA @ UNT</div>
               </motion.div>
 
@@ -189,7 +189,7 @@ export default function About() {
               building scalable web applications and automation tools focused on performance and security.
             </p>
             <p className="text-slate-500 leading-relaxed mb-8 text-[15px]">
-              Currently pursuing a Masters in Computer Science at UNT (CGPA: 3.69). Proven ability to lead
+              Currently pursuing a Masters in Computer Science at UNT (CGPA: 3.89). Proven ability to lead
               cross-functional teams on projects involving computer vision, deep learning, and RPA. Passionate
               about delivering high-quality, impactful code.
             </p>

@@ -416,7 +416,7 @@ function EducationSection() {
             <Field label="Duration"><Input value={form.duration} onChange={e => f('duration', e.target.value)} placeholder="Jan 2025 – Dec 2026" /></Field>
           </div>
           <div className="grid sm:grid-cols-2 gap-4">
-            <Field label="Grade / CGPA"><Input value={form.grade} onChange={e => f('grade', e.target.value)} placeholder="CGPA: 3.69" /></Field>
+            <Field label="Grade / CGPA"><Input value={form.grade} onChange={e => f('grade', e.target.value)} placeholder="CGPA: 3.89" /></Field>
             <Field label="Color Theme">
               <Select value={form.themeIdx} onChange={e => f('themeIdx', Number(e.target.value))}>
                 {EDU_THEMES.map((t, i) => <option key={i} value={i}>{t.label}</option>)}

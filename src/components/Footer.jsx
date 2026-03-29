@@ -98,7 +98,7 @@ export default function Footer() {
               </p>
               <p className="flex items-center gap-2">
                 <span>🎓</span>
-                UNT — Masters CS (CGPA 3.69)
+                UNT — Masters CS (CGPA 3.89)
               </p>
               <div className="inline-flex items-center gap-2 mt-3 px-3 py-1.5 bg-emerald-500/10 border border-emerald-500/20 rounded-lg">
                 <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />

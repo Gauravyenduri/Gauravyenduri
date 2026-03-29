@@ -175,7 +175,7 @@ const education = [
     school: 'University of North Texas',
     location: 'Denton, Texas, USA',
     duration: 'Jan 2025 – Dec 2026',
-    grade: 'CGPA: 3.69',
+    grade: 'CGPA: 3.89',
     highlight: 'Current',
     gradient: 'from-indigo-500 to-purple-600',
     light: 'from-indigo-50 to-purple-50',
